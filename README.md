@@ -14,7 +14,7 @@ MATLAB code for the interpolation from experimental DIC data points to the numer
 2. Download the following dataset for a working example:\
   2.1 MatchID: https://uapt33090-my.sharepoint.com/:f:/g/personal/joaodiogofh_ua_pt/EhGPX_zm7aFAjWWc4Od5E38BPFYYku_Z9zp1oUI8w4RzQQ?e=oTd7Wn \
   2.2 Aramis: https://uapt33090-my.sharepoint.com/:f:/g/personal/joaodiogofh_ua_pt/EjuOupgm15tFntUHusApXBoBILyqLz8HQweHLb2e0zO_ZQ?e=b0f4rc
-4. Put the folder inside the A00 and overwrite the contents of the preexisting folder.
+4. Move the folder inside the A00 and overwrite the contents of the preexisting folder.
 5. Run the code "Exp2Num_MatchID.m" or "Exp2Num_Aramis.m", depending on the DIC processor used.
 
 ## Usage
