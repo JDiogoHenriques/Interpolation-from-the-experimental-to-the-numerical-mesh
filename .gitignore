@@ -1,0 +1,11 @@
+F2py_strain_verification/
+MatchID_DIC/
+Mesh interpolation
+**/Plots/
+**/Dogbone_45/
+**/Dogbone_90/
+*.xlsx
+*.pdf
+**/imagecam*.csv
+**/dogBone_*.txt
+Experimental_Data/dogBone_*.csv
